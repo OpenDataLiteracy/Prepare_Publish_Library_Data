@@ -1,15 +1,17 @@
 ---
 title: "Preparing Data"
-teaching: 0
+teaching: 45
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "How do I prepare my library data for publication?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Learn about cleaning and normalizing data"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+## Cleaning Best Practices
+
+## Tidy Data
 
 {% include links.md %}
 
