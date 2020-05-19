@@ -19,6 +19,8 @@ Review Data 101: What is Data [slides](https://docs.google.com/presentation/d/1g
 
 ## Identifying Library Datasets
 
+Does your open data project match community needs? A [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfcjXVLqdMQp3-3LfwBRDt9Dou7nBCkRzaaX3xnFRgWg96yuw/viewform) for finding a community-driven focus from the Sunlight Foundation.
+
 ## Public Library Data
 
 
