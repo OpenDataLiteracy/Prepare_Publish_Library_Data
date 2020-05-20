@@ -59,7 +59,7 @@ Each ILS will have its own unique method for generating data, it won't always be
 
 OpenRefine is a tool designed to clean up messy data. Once you have it installed, open up the application (which will open and run in your default browser tab) and in the left menu choose "Create Project". OpenRefine has a handy tool for using data from a URL, so you can choose "Web Addresses (URLs)" to start your project and enter the link above to the data (https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/data/SnoIsleCircSample.csv). Click "Next."
 
-![Screenshot of OpenRefine](assets/img/OpenRefineCreateProject.png)
+![Screenshot of OpenRefine](~/assets/img/OpenRefineCreateProject.png)
 
 OpenRefine automatically tries to detect the separator used in the file, but allows the use to change the detection paramaters.
 
