@@ -1,15 +1,17 @@
 ---
 title: "Privacy"
-teaching: 0
+teaching: 45
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What should you consider regarding privacy before publishing library data?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Consider stakeholders and do a risk assessment"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+## Stakeholders
+
+## Risk Assessment
 
 {% include links.md %}
 
