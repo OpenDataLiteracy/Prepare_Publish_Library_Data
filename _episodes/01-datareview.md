@@ -21,6 +21,21 @@ Review Data 101: What is Data [slides](https://docs.google.com/presentation/d/1g
 
 Does your open data project match community needs? A [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfcjXVLqdMQp3-3LfwBRDt9Dou7nBCkRzaaX3xnFRgWg96yuw/viewform) for finding a community-driven focus from the Sunlight Foundation.
 
+### Identifying Open Data to Publish
+*Adapted with permission from a document prepared by Kathleen Sullivan, open data literacy consultant, Washington State Library*
+
+This following text synthesizes recommendations for getting started with open government data publishing. The recommendations reflect reliable, commonly recommended sources (listed at the end), as well as interviews conducted by Kathleen Sullivan with other open data portal creators and hosts.
+
+**The Mantras**
+*People, issues, data*
+As Sunlight Foundation hammers home in its “Does your open data project match community needs?” [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfcjXVLqdMQp3-3LfwBRDt9Dou7nBCkRzaaX3xnFRgWg96yuw/viewform), the data you choose to publish should connect to issues that people care about. Begin your publishing process by identifying the key people, the key issues, and the available data.
+
+**Keep it Simple**
+Many guides have some version of this advice, along with suggestions to do things in small, manageable batches and avoid perfectionism. Here’s Open Data Handbook’s take:
+>Keep it simple. Start out small, simple and fast. There is no requirement that every dataset must be made open right now. Starting out by opening up just one dataset, or even one part of a large dataset, is fine – of course, the more datasets you can open up the better.
+
+As (Washington State’s OCIO Open Data Guy) Will Saunders has said often (advice repeated in sources like OKI’s [*Open Data Handbook*](https://opendatahandbook.org/)), overpublishing and undermanaging is the usual scenario, and it leads to disillusionment and low participation. Start small with good-quality data that’s connected to what the community cares about. Keep talking to users, improve, expand as you can, repeat. 
+
 ## Public Library Data
 
 
