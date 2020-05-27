@@ -60,11 +60,9 @@ The following tidy data table includes characters appearing in a Lewis Caroll [n
 
 The principles described above may seem simplistic and highly intuitive. But, often these principles aren't followed when creating or publishing a dataset. This may be for a variety of reasons, but most obvious is that data creators are often working for convenience in data entry rather than thinking about future data analysis. 
 
-Think back to our Ch. 3 example of an ecology graduate student sitting in a field observing frogs. After a long day of fieldwork she might not care too much about how she makes her data conform with principles of tidy data - she just wants to record her observations. Or, she may be simply following the conventions of a structure that has already been set up by a member of her lab. Later, when she returns to the data to perform some analysis for a publication she may need to clean the data in order to ease computaiton. But, often she'll simply archive her raw data and not worry about what she did to transform the data in order to make it useful for analysis. These data management practices are highly inefficient, and repsent an excellent point for curators to intervene. 
-
 For data curators, the principles of tidy data can be applied at different points in time.
 
-- Upstream tidying: In working "upstream" a data curator is collaboratively developing standards to govern data collection and management. In this proactive work a data curator can advocate for these principles at the point in which data is initially made digital.
+- Upstream tidying: In working "upstream" a data curator is collaboratively developing standards to govern data collection and management. In this proactive work a data curator can advocate for these principles at the point in which data is initially made digital. Practically this might include working with the ILS to generate data apporopriately, or carefully constructing just the right SQL query.
 
 - Downstream tidying: More commonly, a data curator will receive some untidy data after it has been collected and analyzed. Working downstream requires tidying, such as restructuring and normalizing data, so that it adheres to the principles described above.
 
@@ -72,17 +70,10 @@ In working downstream, there are some additional data transformations that are h
 
 ### Pivoting data
 
-A pivot table is commonly used to summarize data in some statistical way so as to reduce or summarize information that may be included a single table. In describing the "pivot" as it applies to a tidy dataset, there are two common problems that this technique can help solve.  
+A pivot table is commonly used to summarize data in some statistical way so as to reduce or summarize information that may be included in a single table. In describing the "pivot" as it applies to a tidy dataset, there are two common problems that this technique can help solve.  
 
 First, a variable is often inefficently **"spread"** across multiple columns. For example, we may have the observation of a country and a variable like GDP that is represented annualy. Our dataset could look like this:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 449px">
 <colgroup>
 <col style="width: 106px">
