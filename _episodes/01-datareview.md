@@ -52,15 +52,8 @@ A further important distinction we make about metadata is that it can be applied
 **Normalization** literally means making data conform to a normal schema. Practically, normalization includes the activities needed for transforming data structures, organizing variables (columns) and observations (rows), and editing data values so that they are consistent, interpretable, and match best practices in a field.
 
 **Data Quality**: From the ISO 8000 definition we assume data quality are "...the degree to which a set of characteristics of data fulfills stated requirements.” In simpler terms data quality is the degree to which a set of data or metadata are fit for use. Examples of data quality characteristics include completeness, validity, accuracy, consistency, availability and timeliness.
-
-## Resources
-
-Review Data 101: What is Data [slides](https://docs.google.com/presentation/d/1gXqJ7vZ_44LGrk5ZHtvpl2zGBrudn9PHYzrmGwPQk1M/edit#slide=id.p) from the [Western Pennsylvania Regional Data Center](http://www.wprdc.org/) and the [Carnegie Library of Pittsburgh](https://www.carnegielibrary.org/).
-
 ## Data Types
-
 ## Data Formats and Structures
-
 ## Identifying Library Datasets
 
 Does your open data project match community needs? A [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfcjXVLqdMQp3-3LfwBRDt9Dou7nBCkRzaaX3xnFRgWg96yuw/viewform) for finding a community-driven focus from the Sunlight Foundation.
