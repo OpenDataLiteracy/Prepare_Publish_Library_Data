@@ -1,13 +1,14 @@
 ---
 title: "Review and Data Identification"
-teaching: 15
+teaching: 120
 exercises: 0
 questions:
-- "Can you describe Data, Data Types, Data Formats & Structures?"
+- "What are Data, Data Types, Data Formats & Structures? What library-related data can you publish?"
 objectives:
-- "Review of key concepts required for remainder of curriculum."
+- "Review of intorductory data concepts and ideas for identifying library data to publish."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Definitions"
+- "Library Datasets"
 ---
 ## Working Definitions
 
