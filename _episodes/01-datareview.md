@@ -10,6 +10,7 @@ keypoints:
 - "Definitions"
 - "Library Datasets"
 ---
+## Prerequisite
 This curriculum builds upon a basic understanding of data. If you are unfamiliar with basic data concepts or need a refresher, we recommend engaging with any of the following material before diving into this curriculum:
 
 - [Data 101 Toolkit by the Carnegie Library of Pittsburgh and the Western Pennsylvania Regional Data Center](https://docs.google.com/document/d/1VbfIQ80nkaVg87ttPqH4bxsJzBROBSy1VdvOCu_hoP0/edit)
@@ -17,8 +18,7 @@ This curriculum builds upon a basic understanding of data. If you are unfamiliar
 - [Open Data 101: Breaking Down What You Need to Know by GovLoop and Socrata](https://www.govloop.com/wp-content/uploads/2016/01/Open-Data-Pocket-Guide.pdf)
 
 ## Working Definitions
-
-Before we begin diving into the content, we will review key terms and their definitions:
+Below are key terms and definitions that we will use throughout this curriculum:
 
 **Data**: Data are various types of digital objects playing the role of evidence. Type and role distinctions have to do with the relational nature of data. A type is rigid (such as a file format) and a role is fluid (it can change given a context). A simple example will help make this clear: I am a person. This is a type. Regardless of any external circumstances I will remain a person. I am also a professor. This is a role that I play. I might, depending on the success of my tenure case, not be a professor in the future. This is simply a professional title that I have for a small amount of time. Data have similar rigid and fluid properties - A tabular dataset will have a type of structure (rows, columns, and values). Unless we take some purposeful action to transform this data it will remain tabular as a type. But, this tabular data might be evidence of some real world phenmena - it might be set of species occurrence records, the preciptation and temperature of a particular place, etc. This evidential role can shift and change depending on who is using the data, and for what purpose.
 
