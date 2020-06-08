@@ -5,11 +5,17 @@ exercises: 0
 questions:
 - "What are Data, Data Types, Data Formats & Structures? What library-related data can you publish?"
 objectives:
-- "Review of intorductory data concepts and ideas for identifying library data to publish."
+- "Review introductory data concepts. Identify library datasets to publish openly."
 keypoints:
 - "Definitions"
 - "Library Datasets"
 ---
+This curriculum builds upon a basic understanding of data. If you are unfamiliar with basic data concepts or need a refresher, we recommend engaging with any of the following material before diving into this curriculum:
+
+- [Data 101 Toolkit by the Carnegie Library of Pittsburgh and the Western Pennsylvania Regional Data Center](https://docs.google.com/document/d/1VbfIQ80nkaVg87ttPqH4bxsJzBROBSy1VdvOCu_hoP0/edit)
+- [Data Equity for Mainstreet by the California State Library and the Washington State Office of Privacy](https://github.com/Data-Equity/DataEquityForMainStreet)
+- [Open Data 101: Breaking Down What You Need to Know by GovLoop and Socrata](https://www.govloop.com/wp-content/uploads/2016/01/Open-Data-Pocket-Guide.pdf)
+
 ## Working Definitions
 
 Before we begin diving into the content, we will review key terms and their definitions:
