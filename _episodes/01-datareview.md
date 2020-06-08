@@ -16,6 +16,7 @@ This curriculum builds upon a basic understanding of data. If you are unfamiliar
 - [Data 101 Toolkit by the Carnegie Library of Pittsburgh and the Western Pennsylvania Regional Data Center](https://docs.google.com/document/d/1VbfIQ80nkaVg87ttPqH4bxsJzBROBSy1VdvOCu_hoP0/edit)
 - [Data Equity for Mainstreet by the California State Library and the Washington State Office of Privacy](https://github.com/Data-Equity/DataEquityForMainStreet)
 - [Open Data 101: Breaking Down What You Need to Know by GovLoop and Socrata](https://www.govloop.com/wp-content/uploads/2016/01/Open-Data-Pocket-Guide.pdf)
+
 ## Working Definitions
 Below are key terms and definitions that we will use throughout this curriculum:
 
@@ -52,8 +53,11 @@ A further important distinction we make about metadata is that it can be applied
 **Normalization** literally means making data conform to a normal schema. Practically, normalization includes the activities needed for transforming data structures, organizing variables (columns) and observations (rows), and editing data values so that they are consistent, interpretable, and match best practices in a field.
 
 **Data Quality**: From the ISO 8000 definition we assume data quality are "...the degree to which a set of characteristics of data fulfills stated requirements.” In simpler terms data quality is the degree to which a set of data or metadata are fit for use. Examples of data quality characteristics include completeness, validity, accuracy, consistency, availability and timeliness.
+
 ## Data Types
+
 ## Data Formats and Structures
+
 ## Identifying Library Datasets
 
 Does your open data project match community needs? A [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfcjXVLqdMQp3-3LfwBRDt9Dou7nBCkRzaaX3xnFRgWg96yuw/viewform) for finding a community-driven focus from the Sunlight Foundation.
