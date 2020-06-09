@@ -20,7 +20,7 @@ This curriculum builds upon a basic understanding of data. If you are unfamiliar
 ## Working Definitions
 Below are key terms and definitions that we will use throughout this curriculum:
 
-**Data**: For the purpose of this curriculum, data are various types of digital objects playing the role of evidence. Type and role distinctions have to do with the relational nature of data. A type is rigid (such as a file format) and a role is fluid (it can change given a context). A simple example will help make this clear: I am a person. This is a type. Regardless of any external circumstances I will remain a person. I am also a professor. This is a role that I play. I might, depending on the success of my tenure case, not be a professor in the future. This is simply a professional title that I have for a small amount of time. Data have similar rigid and fluid properties - A tabular dataset will have a type of structure (rows, columns, and values). Unless we take some purposeful action to transform this data it will remain tabular as a type. But, this tabular data might be evidence of some real world phenmena - it might be set of species occurrence records, the preciptation and temperature of a particular place, etc. This evidential role can shift and change depending on who is using the data, and for what purpose.
+**Data**: For the purpose of this curriculum, data are various types of digital objects playing the role of evidence. 
 
 **FAIR Data**: An emerging shorthand description for open research data - that is applicable to any sector - is the concept of F.A.I.R. FAIR data should be Findable, Accessible, Interoperable, and Reusable. This is a helpful reminder for the steps needed to make data truly accessible over the long term. 
 
