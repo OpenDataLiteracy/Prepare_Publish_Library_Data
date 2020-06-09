@@ -16,6 +16,7 @@ This curriculum builds upon a basic understanding of data. If you are unfamiliar
 - [Data 101 Toolkit by the Carnegie Library of Pittsburgh and the Western Pennsylvania Regional Data Center](https://docs.google.com/document/d/1VbfIQ80nkaVg87ttPqH4bxsJzBROBSy1VdvOCu_hoP0/edit)
 - [Data Equity for Mainstreet by the California State Library and the Washington State Office of Privacy](https://github.com/Data-Equity/DataEquityForMainStreet)
 - [Open Data 101: Breaking Down What You Need to Know by GovLoop and Socrata](https://www.govloop.com/wp-content/uploads/2016/01/Open-Data-Pocket-Guide.pdf)
+- [Introduction to Metadata and Metadata Standards by Lynn Yarmey](http://commons.esipfed.org/node/1422)
 
 ## Working Definitions
 Below are key terms and definitions that we will use throughout this curriculum:
@@ -30,7 +31,7 @@ Below are key terms and definitions that we will use throughout this curriculum:
 
 **Data curation**: Data curation is the active and ongoing management of data throughout a lifecycle of use, including its reuse in unanticipated contexts. This definition emphasizes that curation is not one narrow set of activities, but is an ongoing *process* that takes into account both material aspects of data, as well as the surrounding community of users that employ different practices while interacting with data and information infrastructures. 
 
-**Metadata**: Metadata is contextual information about data. Metadata, at an abstract level, has some features which are helpful for unpacking and making sense of the ways that descriptive, technical, and administrative information become useful for a digital object playing the role of evidence. 
+**Metadata**: Metadata is contextual information about data (you will often hear it referred to as "data about data"). Metadata, at an abstract level, has some features which are helpful for unpacking and making sense of the ways that descriptive, technical, and administrative information become useful for a digital object playing the role of evidence. When creating metadata for a digital object, [Lynn Yarmey suggests](http://commons.esipfed.org/node/1422) asking yourself "What would someone unfamiliar with your data (and possibly your research) need in order to find, evaluate, understand, and reuse [your data]?"
 
 | ![Examples of Metadata](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/Metadata.png) | 
 |:--:| 
@@ -49,6 +50,8 @@ Structured metadata is, typically, differentiated by its documentation role.
 A further important distinction we make about metadata is that it can be applied to both individual items, or collections or groups of related items. We refer to this as a distinction between **Item and Collection level metadata**.
 
 **Metadata Schemas** define attributes (e.g. what do you mean by “creator” in ecology?); Suggests controls of values (e.g. dates = MM-DD-YYYY); Defines requirements for being “well-formed” (e.g. what fields are required for an implementation of the standard); and, Provide example use cases that are satisfied by the standard.
+
+![xkcd cartoon about creating standards](https://imgs.xkcd.com/comics/standards.png)
 
 **Expressivity vs Tractability** All knowledge organization activities are a tradeoff between how expressive we make information, and how tractable it is to manage that information. The more expressive we make our metadata, the less tractable it is in terms of generating, managing, and computing for reuse. Inversely, if we optimize our documentation for tractability we sacrifice some of the power in expressing information about attributes that define class membership. The challenge of all knowledge representation and organization activities - including metadata and documentation for data curation - is balancing expressivity and tractability.
 
