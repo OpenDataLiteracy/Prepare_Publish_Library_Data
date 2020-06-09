@@ -11,7 +11,7 @@ keypoints:
 - "Library Datasets"
 ---
 ## Prerequisite
-This curriculum builds upon a basic understanding of data. If you are unfamiliar with basic data concepts or need a refresher, we recommend engaging with any of the following material before diving into this curriculum:
+This curriculum builds upon a basic understanding of data. If you are unfamiliar with basic data concepts or need a refresher, we recommend engaging with any of the following material before beginning this curriculum:
 
 - [Data 101 Toolkit by the Carnegie Library of Pittsburgh and the Western Pennsylvania Regional Data Center](https://docs.google.com/document/d/1VbfIQ80nkaVg87ttPqH4bxsJzBROBSy1VdvOCu_hoP0/edit)
 - [Data Equity for Mainstreet by the California State Library and the Washington State Office of Privacy](https://github.com/Data-Equity/DataEquityForMainStreet)
@@ -21,6 +21,10 @@ This curriculum builds upon a basic understanding of data. If you are unfamiliar
 Below are key terms and definitions that we will use throughout this curriculum:
 
 **Data**: For the purpose of this curriculum, data are various types of digital objects playing the role of evidence. 
+
+| ![Quote from Schutt and O'Neill "Data represents the traces of the real-world processes, and exactly which traces we gather are decided by our data collection or sampling method.  You, the data scientist, the observer, are turning the world into data, and this is an utterly subjective, not objective, process."](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/DataAreSubjective.png) | 
+|:--:| 
+| *Schutt, R., & O'Neil, Cathy. (2014). Doing data science. Sebastopol, CA: O'Reilly Media* |
 
 **FAIR Data**: An emerging shorthand description for open research data - that is applicable to any sector - is the concept of F.A.I.R. FAIR data should be Findable, Accessible, Interoperable, and Reusable. This is a helpful reminder for the steps needed to make data truly accessible over the long term. 
 
@@ -33,6 +37,10 @@ Below are key terms and definitions that we will use throughout this curriculum:
 - Instances are observations or concrete examples of a class or sub-class. For example, in an ontology or metadata scheme describing mammals my dog `Yael` is an instance of the sub-class Saluki. A Saluki is an instance of the sub-class Canine, which is an instance of a class of Mammals. A class or sub-class instance also has attributes or properties that define it is a member of that class or sub-class.
 - Attributes are defining features of a class or sub-class, and refer to instances. An instance is a member of a class if it has all of the attributes of that class. For example, a Mammal has certain features (reproductive organs, respiratory system, etc) that define its base or necessary attributes for class membership. Canines as a sub-class have a more specific set of attributes that define membership in that sub-class. 
 - Relations are the ways that we relate different instances and classes to one another. An instance or a class can be related in one or many ways. 
+
+| ![Examples of Metadata](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/Metadata.png) | 
+|:--:| 
+| *Slide from [Data 101 Toolkit by the Carnegie Library of Pittsburgh and the Western Pennsylvania Regional Data Center](https://docs.google.com/document/d/1VbfIQ80nkaVg87ttPqH4bxsJzBROBSy1VdvOCu_hoP0/edit)* |
 
 **Structured Metadata** Is quite literally a structure of attribute and value pairs that are defined by a scheme. Most often, structured metadata is encoded in a machine readable format like XML or JSON. Crucially, structured metadata is compliant with and adheres to a standard that has defined attributes - such as Dublin Core, EML, DDI.
 
