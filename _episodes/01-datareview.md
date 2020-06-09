@@ -30,13 +30,13 @@ Below are key terms and definitions that we will use throughout this curriculum:
 
 **Data curation**: Data curation is the active and ongoing management of data throughout a lifecycle of use, including its reuse in unanticipated contexts. This definition emphasizes that curation is not one narrow set of activities, but is an ongoing *process* that takes into account both material aspects of data, as well as the surrounding community of users that employ different practices while interacting with data and information infrastructures. 
 
-**Metadata**: Metadata is most simply a set of standardized attribute-value pairs that provide contextual information about an object or artifact. Metadata, at an abstract level, has some features which are helpful for unpacking and making sense of the ways that descriptive, technical, and administrative information become useful for a digital object playing the role of evidence. 
+**Metadata**: Metadata is contextual information about data. Metadata, at an abstract level, has some features which are helpful for unpacking and making sense of the ways that descriptive, technical, and administrative information become useful for a digital object playing the role of evidence. 
 
 | ![Examples of Metadata](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/Metadata.png) | 
 |:--:| 
 | *Slide from [Data 101 Toolkit by the Carnegie Library of Pittsburgh and the Western Pennsylvania Regional Data Center](https://docs.google.com/document/d/1VbfIQ80nkaVg87ttPqH4bxsJzBROBSy1VdvOCu_hoP0/edit)* |
 
-**Structured Metadata** Is quite literally a structure of attribute and value pairs that are defined by a scheme. Most often, structured metadata is encoded in a machine readable format like XML or JSON. Crucially, structured metadata is compliant with and adheres to a standard that has defined attributes - such as Dublin Core, EML, DDI.
+**Structured Metadata** Is quite literally a structure of attribute and value pairs that are defined by a scheme. Most often, structured metadata is encoded in a machine readable format like XML or JSON. Crucially, structured metadata is compliant with and adheres to a standard that has defined attributes - such as [Dublin Core](https://dublincore.org/), [Ecological Metadata Language or EML](https://eml.ecoinformatics.org/), [DDI](https://ddialliance.org/).
 
 Structured metadata is, typically, differentiated by its documentation role.
 
