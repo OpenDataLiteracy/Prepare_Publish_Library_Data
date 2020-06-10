@@ -57,11 +57,11 @@ A further important distinction we make about metadata is that it can be applied
 
 **Normalization** literally means making data conform to a normal schema. Practically, normalization includes the activities needed for transforming data structures, organizing variables (columns) and observations (rows), and editing data values so that they are consistent, interpretable, and match best practices in a field.
 
-**Data Quality**: From the ISO 8000 definition we assume data quality are "...the degree to which a set of characteristics of data fulfills stated requirements.” In simpler terms data quality is the degree to which a set of data or metadata are fit for use. Examples of data quality characteristics include completeness, validity, accuracy, consistency, availability and timeliness.
+**Data Quality** From the ISO 8000 definition we assume data quality are "...the degree to which a set of characteristics of data fulfills stated requirements.” In simpler terms data quality is the degree to which a set of data or metadata are fit for use. Examples of data quality characteristics include completeness, validity, accuracy, consistency, availability and timeliness.
 
-## Data Types
+**Data Type** Data type is an attribute of the data. It signifies to the user or machine, how the data will be used. For example, if we have a tabular dataset with a column for `Author`, each of the cells within that column will be of the same data type: "string". This tells the user or the machine that the field (or cell) contains characters and thus only certain actions can be performed on the data. A user will not be able to include a string in a mathematical calculation for example. Common data types are: Integer, Numeric, Datetime, Boolean, Factor, Float, String. Terminology can differ between software and programming languages.   
 
-## Data Formats and Structures
+**Data Formats and Structures**
 
 ## Identifying Library Datasets
 
