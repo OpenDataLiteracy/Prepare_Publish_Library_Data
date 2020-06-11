@@ -35,7 +35,7 @@ Below are key terms and definitions that we will use throughout this curriculum:
 
 | ![Examples of Metadata](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/Metadata.png) | 
 |:--:| 
-| *Slide from [Data 101 Toolkit by the Carnegie Library of Pittsburgh and the Western Pennsylvania Regional Data Center](https://docs.google.com/document/d/1VbfIQ80nkaVg87ttPqH4bxsJzBROBSy1VdvOCu_hoP0/edit)* |
+| *Slide from [Data 101 Toolkit by the Carnegie Library of Pittsburgh and the Western Pennsylvania Regional Data Center](https://docs.google.com/document/d/1VbfIQ80nkaVg87ttPqH4bxsJzBROBSy1VdvOCu_hoP0/edit) CC-BY 4.0* |
 
 **Structured Metadata** Is quite literally a structure of attribute and value pairs that are defined by a scheme. Most often, structured metadata is encoded in a machine readable format like XML or JSON. Crucially, structured metadata is compliant with and adheres to a standard that has defined attributes - such as [Dublin Core](https://dublincore.org/), [Ecological Metadata Language or EML](https://eml.ecoinformatics.org/), [DDI](https://ddialliance.org/).
 
