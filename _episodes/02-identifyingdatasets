@@ -1,13 +1,12 @@
 ---
 title: "Identify Library Datasets"
-teaching: 120
+teaching: 30
 exercises: 0
 questions:
-- "What are Data, Data Types, Data Formats & Structures? What library-related data can you publish?"
+- "What library-related data can you publish?"
 objectives:
-- "Review introductory data concepts. Identify library datasets to publish openly."
+- "Identify library datasets to publish openly."
 keypoints:
-- "Definitions"
 - "Library Datasets"
 ---
 ## Identifying Library Datasets
