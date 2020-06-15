@@ -1,6 +1,6 @@
 ---
 title: "Review"
-teaching: 120
+teaching: 15
 exercises: 0
 questions:
 - "What are Data, Data Types, Data Formats & Structures?"
