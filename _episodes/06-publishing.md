@@ -18,6 +18,7 @@ The first step is to find out if your city, county, or state (start hyperlocal a
 - [City of Seattle Open Data Repository](https://data.seattle.gov/)
 - [Sauk County Open Data Repository](https://data-saukgis.opendata.arcgis.com/)
 - [Maryland's Open Data Portal](https://opendata.maryland.gov/)
+- [Western Pennsylvania Regional Data Center](http://www.wprdc.org/)
 
 ## Alternatives
 
