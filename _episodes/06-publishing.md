@@ -48,6 +48,25 @@ In this example we'll show you what it looks like to edit the dataset metadata a
 
 ![Screenshot of Dataset Metadata Management Page for Title and Row](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/SocrataManageMetadataTitleRow.png)
 
+Next you can choose from categories and tags. In this example, the adminstrator for the portal specifically requests that library data be categorized as "Culture and Community" and the tags are free form (i.e. there is no controlled vacabularly for tagging). You will need to check on the categorization and tagging specifics of the portal you are using.
+
+![Screenshot of Dataset Metadata Management Page for Categories and Tags](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/SocrataManageMetadataCatTags.png)
+
+The follwoing section for licensing and attribution will be specific to your organization and the option available on your portal.
+
+![Screenshot of Dataset Metadata Management Page for Licensing and Attribution](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/SocrataManageMetadataLicense.png)
+
+Next you will want to include contact information for the dataset. This will again depend on the arrangements you make with the portal administrator and your organization. In the example case, the contact information will be to the portal administrator, but your situation may be different. Attachments can include a variety of different files. In this example, you will see a little later, the data dictionary and a decoding file for the "item type" codes were added as attachments (both are .csv files).
+
+![Screenshot of Dataset Metadata Management Page for Contact Information and Attachments](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/SocrataManageMetadataContactAttach.png)
+
+There is a notes section in which you can add any details you weren't able to include elsewhere. This dataset includes notes on what the attachments are and on finding more documentation in a Github repository.
+
+![Screenshot of Dataset Metadata Management Page for Contact Information and Attachments](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/SocrataManageMetadataNotes.png)
+
+
+
+
 
 ## Alternatives
 
