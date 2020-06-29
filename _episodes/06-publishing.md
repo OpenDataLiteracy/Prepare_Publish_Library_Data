@@ -85,10 +85,6 @@ There are a few important things to point out here.
 4. On this platform the description is not a required field. Treat it as a required field. Be as descriptive as possible. What time zone is the time stamp? What abbreviation standard are you using for country? If there is an ID field how does a user decode the IDs? What geocoding are you using?
 5. API field name is for accessing the data through the Socrata API. Do no use spaces in this field and make sure it's descriptive of what is in the column.
 
-
-
-
-
 ## Alternatives
 
 {% include links.md %}
