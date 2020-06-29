@@ -62,7 +62,28 @@ Next you will want to include contact information for the dataset. This will aga
 
 There is a notes section in which you can add any details you weren't able to include elsewhere. This dataset includes notes on what the attachments are and on finding more documentation in a Github repository.
 
-![Screenshot of Dataset Metadata Management Page for Contact Information and Attachments](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/SocrataManageMetadataNotes.png)
+![Screenshot of Dataset Metadata Management Page for Notes](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/SocrataManageMetadataNotes.png)
+
+And the final sections of Dataset Metadata are for temporal and identification metadata:
+
+![Screenshot of Dataset Metadata Management Page for Temporal Information](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/SocrataManageMetadataTemporal.png)
+![Screenshot of Dataset Metadata Management Page for Identification Information](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/SocrataManageMetadataID.png)
+
+The next important metadata section is the Column Descriptions, which you can access using menu option on the left. 
+
+![Screenshot of Column Descriptions Management Page](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/SocrataManageMetadataColumn.png)
+
+The information entered here correspons with the column descriptions on the public-facing side seen [here](https://data.wa.gov/Culture-and-Community/North-Central-Regional-Library-WA-Bookmobile-Check/rfra-yhpm):
+
+![Screenshot of Public-Facing Columns in the Dataset Metadata](https://raw.githubusercontent.com/OpenDataLiteracy/Prepare_Publish_Library_Data/gh-pages/assets/img/SocrataColumnsInDataset.png)
+
+There are a few important things to point out here. 
+
+1. Position should correspond with the position in the tabular data.
+2. You can turn visibility off for a column. We don't suggest this, but perhaps there's a use case in which this will be necessary.
+3. Column names should be descriptive and as short as possible. 
+4. On this platform the description is not a required field. Treat it as a required field. Be as descriptive as possible. What time zone is the time stamp? What abbreviation standard are you using for country? If there is an ID field how does a user decode the IDs? What geocoding are you using?
+5. API field name is for accessing the data through the Socrata API. Do no use spaces in this field and make sure it's descriptive of what is in the column.
 
 
 
