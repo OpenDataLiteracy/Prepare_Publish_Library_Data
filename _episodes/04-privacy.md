@@ -12,6 +12,8 @@ keypoints:
 ## ALA Privacy Checklists
 http://www.ala.org/advocacy/privacy/checklists
 
+Excellent reading for de-identifying library patron data: [Balancing Privacy and Strategic Planning Needs: A Case Study in De-Identification of Patron Data](https://www.journals.ala.org/index.php/jifp/article/view/6250) by Becky Yoose
+
 ## Stakeholders
 
 ## Risk Assessment
