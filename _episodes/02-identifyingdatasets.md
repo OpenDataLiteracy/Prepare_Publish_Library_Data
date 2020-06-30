@@ -20,6 +20,9 @@ Quote from Ayre, L., & Craner, J. (2017). [Open Data: What It Is and Why You Sho
 > (2) Budget data that can be accessed by journalists, academics, good-government groups, and citizens interested in how taxpayer dollars are spent;
 > (3) Information published on your existing website—such as event schedules or operating hours—when offered in a “machine-readable” format become available for “mash-ups” with with other data or local applications (see Figure 2).
 
+See Appendix in Carruthers, A. (2014). [Open data day hackathon 2014 at Edmonton Public Library.](https://journal.lib.uoguelph.ca/index.php/perj/article/view/3121/3400)  Partnership: The Canadian Journal of Library and Information Practice and Research, 9(2), 1-13. DOI: 10.21083/partnership.v9i2.3121.
+
+
 ### Identifying Open Data to Publish
 *Adapted with permission from a document prepared by Kathleen Sullivan, open data literacy consultant, Washington State Library*
 
