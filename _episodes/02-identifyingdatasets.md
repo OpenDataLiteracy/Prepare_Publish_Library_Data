@@ -13,6 +13,13 @@ keypoints:
 
 Does your open data project match community needs? A [quiz](https://docs.google.com/forms/d/e/1FAIpQLSfcjXVLqdMQp3-3LfwBRDt9Dou7nBCkRzaaX3xnFRgWg96yuw/viewform) for finding a community-driven focus from the Sunlight Foundation.
 
+Quote from Ayre, L., & Craner, J. (2017). [Open Data: What It Is and Why You Should Care.](https://doi.org/10.1080/01616846.2017.1313045) Public Library Quarterly, 36(2), 173-184. 
+
+> Your library also has data that would be useful to publish including as follows:
+> (1) Statistics about visitors, computer usage, materials borrowed, etc., which illustrate the value of the services you provide (see Figure 1);
+> (2) Budget data that can be accessed by journalists, academics, good-government groups, and citizens interested in how taxpayer dollars are spent;
+> (3) Information published on your existing website—such as event schedules or operating hours—when offered in a “machine-readable” format become available for “mash-ups” with with other data or local applications (see Figure 2).
+
 ### Identifying Open Data to Publish
 *Adapted with permission from a document prepared by Kathleen Sullivan, open data literacy consultant, Washington State Library*
 
